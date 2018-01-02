@@ -1,0 +1,14 @@
+{
+  "name": "codemod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transform": "node ./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jscodeshift": "^0.4.0"
+  }
+}
